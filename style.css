@@ -1,0 +1,38 @@
+.gans {
+    height: 150px;
+
+}
+div {
+    background-color: rgb(95, 202, 241);
+    margin-top: 0;
+    margin: 0;
+    margin-bottom: 0;
+}
+body {
+    margin: 0;
+}
+hr {
+    border: none;
+    border-top: dotted;
+    width: 10%;
+    border-width: 5px;
+    border-color: grey;
+}
+h2 {
+    color: rgb(219, 13, 13);
+}
+h1 {
+    margin-top: 0;
+    color: #101111;
+}
+h3 {
+    color: #7c66bf;
+}
+img {
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 0;
+}
+.quote {
+    color: rgb(234, 12, 179);
+}
